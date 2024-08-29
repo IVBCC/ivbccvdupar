@@ -1,8 +1,8 @@
 // src/components/HeroSection.js
 const HeroSection = () => (
-    <section className="bg-cover bg-center h-64" style={{ backgroundImage: 'url(/hero-bg.jpg)' }}>
+    <section className="bg-cover bg-center h-64" style={{ backgroundImage: 'url(https://www.cruzadacristiana.org/wp-content/uploads/2024/03/Logo-Cruzada-Cristiana-Negro-1.png)' }}>
       <div className="h-full flex items-center justify-center text-white text-center">
-        <h1 className="text-4xl font-bold">Bienvenidos a Nuestra Iglesia Valle de Bendicion Cruzada Cristiana</h1>
+        <h1 className="text-4xl font-bold"></h1>
       </div>
     </section>
   );
